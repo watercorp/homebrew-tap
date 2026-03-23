@@ -1,4 +1,4 @@
-# Watercorp Tap
+# Water Corp Tap
 
 ## How do I install these formulae?
 
