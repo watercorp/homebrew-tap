@@ -1,8 +1,8 @@
 class Fmr < Formula
   desc "Frontmatter Replacment"
   homepage "https://github.com/watercorp/fmr"
-  url "https://github.com/watercorp/fmr/archive/refs/tags/v0.0.7.tar.gz"
-  sha256 "82e88844a2222e93ed6e3ebb4f468d0d496057b0d39f7642d5746e3ce2a89217"
+  url "https://github.com/watercorp/fmr/archive/refs/tags/v0.0.10.tar.gz"
+  sha256 "34bca602da87b06c5bf4430c5131feb5425dfeaa200204e4f9d3d6beb0e53453"
   license "MIT"
 
   depends_on "go" => :build
